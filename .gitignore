@@ -1,0 +1,12 @@
+# Ignorar pastas de build e arquivos binários
+/bin/
+build/
+obj/
+*.o
+*.exe
+
+# Ignorar arquivos temporários do Code::Blocks
+*.layout
+*.depend
+*.workspace
+*.cbLayout
