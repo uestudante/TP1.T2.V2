@@ -1,7 +1,7 @@
-#ifndef CNTRSERVICOAUTENTICACAO_HPP_INCLUDED
-#define CNTRSERVICOAUTENTICACAO_HPP_INCLUDED
+#ifndef CNTRSERVICOCONTA_HPP_INCLUDED
+#define CNTRSERVICOCONTA_HPP_INCLUDED
 
-#include "interfaceServicoAutenticacao.hpp"
+#include "interfaceServicoConta.hpp"
 
 class CntrSConta: public ISConta {
 public:

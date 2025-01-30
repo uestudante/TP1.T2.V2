@@ -4,4 +4,4 @@
 bool CntrSConta::criar(Conta){}
 bool CntrSConta::ler(Conta*){}
 bool CntrSConta::atualizar(Conta){}
-bool CntrSconta::excluir(Codigo){}
+bool CntrSConta::excluir(Codigo){}
